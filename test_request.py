@@ -1,9 +1,9 @@
 import requests
 import json
 
-url = "url_to_endpoint_center_with_port"
+url = "http://186.179.163.205:8008"
 
-auth_token = "your_auth_token"
+auth_token = "MRC"
 
 # Example messages
 messages = [
